@@ -16,7 +16,7 @@ from telegram.ext import (
 )
 
 # ── Config ───────────────────────────────────────────────────────────────────
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("7487610248:AAEWHVEvI0_lSG3vikD6Dvl4Bxy-kocM2ZU", "7487610248:AAEWHVEvI0_lSG3vikD6Dvl4Bxy-kocM2ZU")
 DATA_FILE = "crash_data.json"
 MAX_HISTORY = 1000
 
